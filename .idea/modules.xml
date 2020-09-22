@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../CDHttpClient/CDHttpClient.iml" filepath="$PROJECT_DIR$/../CDHttpClient/CDHttpClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/javabasic.iml" filepath="$PROJECT_DIR$/javabasic/javabasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../suanfademo/suanfademo.iml" filepath="$PROJECT_DIR$/../suanfademo/suanfademo.iml" />
     </modules>
   </component>
 </project>
